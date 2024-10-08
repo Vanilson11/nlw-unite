@@ -21,7 +21,7 @@ Participantes que ainda não realizaram o check-in têm um botão associado ao s
 ## Tecnologias Utilizadas
 
 - **HTML**: Utilizado para a estrutura básica da página.
-- **CSS**: Usado para o estilo básico (não incluído no código acima, mas aplicável).
+- **CSS**: Usado para o estilo básico.
 - **JavaScript**: 
   - Linguagem principal usada para manipulação de dados e interação com a DOM.
   - Manipulação de eventos do formulário e do botão de check-in.
